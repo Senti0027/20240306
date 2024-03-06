@@ -5,4 +5,6 @@ body{
 h3{
     padding: 25px;
     outline-style: dashed ;
+    text-decoration: line-through;
+    text-shadow:2px 2px 4px;
 }
